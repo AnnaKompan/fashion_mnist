@@ -34,7 +34,7 @@
 - Higher average train loss compared to test loss means model overfits
   -> data augmentation and regularization would fix this problem
 
-[Train Results]('。/train_results.png')
+[Train Results]('./train_results.png')
 
 [Prediction results]('./prediction.png')
 
