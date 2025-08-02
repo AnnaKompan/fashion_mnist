@@ -34,11 +34,11 @@
 - Higher average train loss compared to test loss means model overfits
   -> data augmentation and regularization would fix this problem
 
-[Train Results]('./train_results.png')
+![Train Results]('./train_results.png')
 
-[Prediction results]('./prediction.png')
+![Prediction results]('./prediction.png')
 
 ## Training loss per epoch
 
 Training loss steadily decreasing
-[Train Loss]('./train_loss.png')
+![Train Loss]('./train_loss.png')
